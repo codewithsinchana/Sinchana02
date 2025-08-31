@@ -1,4 +1,5 @@
-This is my second practice repo.
+* This is my second practice repo.
+A simple HTML and CSS code.
 
 ## Output
 
